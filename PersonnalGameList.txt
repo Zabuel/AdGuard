@@ -11094,3 +11094,5 @@ sites.google.com/site/unblockurgames
 ||nosdevoirs.fr^
 ||kirka.io^
 ||crazygames.com^
+/game/
+/jeux/
